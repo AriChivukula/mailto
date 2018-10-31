@@ -1,0 +1,6 @@
+exclude:
+- .bundle
+- .travis.yml
+- Gemfile
+- Gemfile.lock
+- vendor
