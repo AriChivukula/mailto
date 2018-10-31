@@ -1,2 +1,2 @@
 # mailto
-- RFC 6068
+RFC 6068
