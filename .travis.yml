@@ -19,5 +19,4 @@ jobs:
     if: (type = push) AND (branch = master)
     script:
     - bundle exec jekyll build
-    - bundle exec htmlproofer ./_site
     - sshpass -e scp -o StrictHostKeyChecking=no -r ./_site/* arichiv@ssh.ocf.berkeley.edu:public_html
