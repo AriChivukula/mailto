@@ -1,6 +1,6 @@
 ---
-<object data="issues/01.01.b.pdf" type="application/pdf">
-    <embed src="issues/01.01.b.pdf">
+<object data="issues/0101b.pdf" type="application/pdf">
+    <embed src="issues/0101b.pdf">
         Unable to display :-(
     </embed>
 </object>
