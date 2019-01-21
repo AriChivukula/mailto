@@ -13,7 +13,7 @@
   <h2>Issues</h2>
   <ul>
     <li>
-      <h3>Spring 2019: <a href="https://goo.gl/forms/4E46jbzCvCWBmEGf2">Submissions</a></h3>
+      <h3>Spring 2019: <a href="https://goo.gl/forms/4E46jbzCvCWBmEGf2">Submissions</a> (Closes 4 March 2019 @ 2359)</h3>
     </li>
     <li>
       <h3>Fall 2018: <a href="issues/0101b.pdf">Issue</a> & <a href="events/0101a.png">Release</a></h3>
