@@ -3,7 +3,7 @@
 <style type="text/css">
   .center {
     margin: 0 auto;
-    width: 100px; 
+    width: 500px; 
   }
 </style>
 <div class="center">
