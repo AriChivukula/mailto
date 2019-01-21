@@ -3,6 +3,7 @@
 <center>
   <h1>see also; </h1>
   <h2>About</h2>
+  <p>see also; is the literary journal at Berkeley Law! We are dedicated to providing a creative outlet for Berkeley Law students and a relief from the legalese we read and write for class. We take submissions from current students and alumni of the Berkeley Law J.D., L.L.M., and J.S.P. programs.</p>
   <h2>Issues</h2>
   <ul>
     <li>
