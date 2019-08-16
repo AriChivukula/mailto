@@ -10,6 +10,7 @@ jobs:
     - uses: actions/setup-ruby@master
     - name: Validate Site
       run: |
+        bundle install
         bundle exec jekyll build
         bundle exec htmlproofer ./_site
         sshpass -e scp -o StrictHostKeyChecking=no -r ./_site/* seealso@ssh.ocf.berkeley.edu:public_html
