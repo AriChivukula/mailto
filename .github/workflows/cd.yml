@@ -1,0 +1,17 @@
+on:
+  push:
+    branches:
+    - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-ruby@master
+    - name: Validate Site
+      run: |
+        bundle exec jekyll build
+        bundle exec htmlproofer ./_site
+        sshpass -e scp -o StrictHostKeyChecking=no -r ./_site/* seealso@ssh.ocf.berkeley.edu:public_html
+      env:
+        SSHPASS: ${{ secrets.SSHPASS }}
