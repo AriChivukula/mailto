@@ -15,7 +15,7 @@
   <h2>Issues</h2>
   <ul>
     <li>
-      <h3>Fall 2019: <a href="https://forms.gle/yBUgFEa4HBQn1QsL9">Call for Submissions</a></h3>
+      <h3>Fall 2019: <a href="issues/0201.pdf">Issue</a> & Release (TBD)</h3>
     </li>
     <li>
       <h3>Spring 2019: <a href="issues/0102.pdf">Issue</a> & <a href="events/0102.jpg">Release</a></h3>
